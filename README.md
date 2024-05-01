@@ -12,8 +12,4 @@
 - Email: <hadao1204@gmail.com>
 
 ##  
-
-<p align="center">
-  <img src="https://badges.frapsoft.com/os/v3/open-source.svg?v=103" alt="Open Source">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Daocon.daco" alt="Visitor Count">
-</p>
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Daocon.daco)  
